@@ -1,0 +1,19 @@
+{
+    "name": "spa-urku-hbs",
+    "version": "1.0.0",
+    "description": "Página creada usando hbs y express",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "nodemon": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Lesca Luciano",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "hbs": "^4.1.1",
+        "heroku": "^7.42.13",
+        "nodemon": "^2.0.4"
+    }
+}
